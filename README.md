@@ -1,13 +1,13 @@
 # Grocery Startup API
  A grocery list API with driver code
  
- ####To Run:
+ #### To Run:
  * clone the repository
  
  * run `python main.py` in the repo folder
  
  
- ##Code Overview
+ ## Code Overview
  * grocery_list.py
     * `add(self,item,num=1):`
         * add `num` of item to the list. 
