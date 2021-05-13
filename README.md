@@ -9,10 +9,10 @@
  
  ##Code Overview
  * grocery_list.py
-    * `add(self,item,num):`
-        * add an item to the list
-    * `remove(self,item,num):`
-        * remove an item from the list
+    * `add(self,item,num=1):`
+        * add `num` of item to the list. 
+    * `remove(self,item,num=1):`
+        * remove `num` of item from the list
     * `get_list(self):`
         * print the entire grocery list
     * `get_item(self,item):`
